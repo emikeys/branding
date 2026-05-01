@@ -13,8 +13,12 @@ Theme variables, such as colours & corner radius. Primarily used on the website
 <table align="center">
   <tr>
     <td align="center">
-      <a href="/assets/Logomark.png">Logomark</a><br>
-      <img src="Logomark.png" width="150">
+      <a href="/assets/Logomark-White.png">Logomark [White]</a><br>
+      <img src="Logomark-White.png" width="150">
+    </td>
+    <td align="center">
+      <a href="/assets/Logomark-Black.png">Logomark [Black]</a><br>
+      <img src="Logomark-Black.png" width="150">
     </td>
     <td align="center">
       <a href="Logomark-Stylized.png">Logomark [Stylized]</a><br>
@@ -27,8 +31,12 @@ Theme variables, such as colours & corner radius. Primarily used on the website
 <table align="center">
   <tr>
     <td align="center">
-      <a href="/Wordmark.png">Wordmark</a><br>
-      <img src="/Wordmark.png" width="150">
+      <a href="/Wordmark-White.png">Wordmark [White]</a><br>
+      <img src="/Wordmark-White.png" width="150">
+    </td>
+        <td align="center">
+      <a href="/Wordmark-Black.png">Wordmark [Black]</a><br>
+      <img src="/Wordmark-Black.png" width="150">
     </td>
     <td align="center">
       <a href="/Wordmark-Stylized.png">Wordmark [Stylized]</a><br>
